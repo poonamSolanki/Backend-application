@@ -1,1 +1,1 @@
-# Backend-application
+The Secure User Authentication System is a web application developed using Python and the Flask framework. This system provides secure user authentication functionality, allowing users to register, log in, and log out of their accounts securely.
